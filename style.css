@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1 {
+    justify-content: center;
+    align-items: center;
+    color: #6da2d1;
+    font-size: 47px;
+}
